@@ -1,0 +1,15 @@
+{
+  "name": "automated_david_2.0",
+  "version": "1.0.0",
+  "description": "automated david",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-localstack": "^0.4.15",
+    "serverless-python-requirements": "^4.3.0"
+  }
+}
